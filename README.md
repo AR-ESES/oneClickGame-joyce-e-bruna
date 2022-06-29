@@ -14,6 +14,8 @@ Falando do Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustr
 
 Hiperligação de acesso ao vídeo promocional:https://youtu.be/VoG-E0VT604
 
-Hiperligação de acesso à Maquete do jogo: https://youtu.be/IOeTGFgNdi4                                                                                                          
-Hiperligação de acesso ao Merchandising do jogo: https://ipsantarem-my.sharepoint.com/:f:/g/personal/200200084_ese_ipsantarem_pt/EtPZ7yxPUQ5Onv8LAXz-_lYBaIEbECMR3Bprc5r6k-ZMnQ?e=QAhCK7                                                                                                                                                                    
+Hiperligação de acesso à Maquete do jogo: https://youtu.be/IOeTGFgNdi4  
+
+Hiperligação de acesso ao Merchandising do jogo: https://ipsantarem-my.sharepoint.com/:f:/g/personal/200200084_ese_ipsantarem_pt/EtPZ7yxPUQ5Onv8LAXz-_lYBaIEbECMR3Bprc5r6k-ZMnQ?e=QAhCK7    
+
 PDF conjuto de LAYOUTS: [LAYOUT_.pdf](https://github.com/AR-ESES/oneClickGame-joyce-e-bruna/files/9009757/LAYOUT_.pdf)
