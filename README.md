@@ -1,17 +1,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8062995&assignment_repo_type=AssignmentRepo)
-# Projeto Final - “One-Click Game”
+# Jogo - “Aprende com o Migo”
 
 ### Introdução
 
-Pretende-se com este projeto que desenhem e implementem um pequeno jogo de apenas um comando (ao estilo Flappy Bird). A temática é livre, sendo que será valorizada a abordagem educativa e/ou o facto de tratarem um assunto que careça de maior atenção por parte do (de um) público.
+Decidimos desenvolver um jogo que tem como tema: a Cibersegurança. Para público-alvo, indicamos as crianças entre 6 a 8 anos. 
 
 ### Metodologia e Entregáveis
 
-1. Com base nas premissas definidas na introdução e no conhecimento adquirido na introdução à programação multimédia com P5js das primeiras aulas, é pedido que definam um ambiente de jogo e personagens e/ou artefactos. Esta definição poderá ser feita com recurso a imagens e/ou ilustrações digitais - Tal resultará num **conjunto de layouts** que permitirá o teste, a revisão e o planeamento das tarefas subsequentes;
-2. **Design de Comunicação** - Todos os jogos merecem uma identidade gráfica que atuará enquanto elemento aglutinador em concordancia com o espirito da temática e coerente com as opções gráficas do jogo. Esta deverá ser aplicada no jogo, na documentação (instruções) do mesmo e em elementos promocionais, digitais e físicos que achem mais apropriados!
-3. **Video** - Será também necessário documentar a utilização do jogo em video, quer através da captura de ecrã directa em pleno jogo como também através da ilustração da sua utilização tanto de um ponto de vista subjetivo como ilustrando o ambiente, idades e target da sua utilização. Tal deverá ser sumarizado um pequeno video promocional de 30 segundos.
-4. **Distribuição do Jogo -** Por fim, a distribuição livre do jogo deverá acontecer através da sua publicação no **Github**, tanto para utilização (estando ativas as **Github Pages** com o jogo a funcionar) como através da **documentação no Readme.md**, onde figurará toda a documentação originada pelos pontos anteriores.
+Em relação à  metodologia do jogo “Aprende com o Migo”, primeiro tínhamos utilizado como base o código do canal de youtube "Professor Edson Maia" e vizualizámos vários vídeos como, por exemplo, "Curso de JS Aula 36 lib p5js Criar Jogo Space Invaders parte 2". Acabámos por mudar o código e utilizámos como base o código do canal de youtube “The Coding Train” - “Coding Challenge #147: Chrome Dinosaur Game (with Speech Commands machine learning model!), adaptando o código ao nosso jogo.
 
-### Referências
+Falando do Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustrator. Decidimos criar um fundo divertido, onde colocámos vários ícones da Cibersegurança numa especíe de árvores e fizemos o sol em formado de cadeado, algo que se vê muito no mundo virtual. A nossa personagem principal é o computador chamado Migo, temos como obstáculos vários perigos da internet como: Cyberbullying; Phishing; Virus; Spamming; Hackers. E temos coisas boas como: Filmes; Compras Online; Videochamada; Comunicação e Redes Sociais (tudo isto é bom quando utilizado corretamente). Com isto, o nosso objetivo era termos um Layout colorido para que, de certa forma, o jogo se tornasse atrativo para as crianças adquirirem conhecimentos.
 
-[Flappy Bird](https://flappybird.io/)
+
+Hiperligação de acesso à Maquete do jogo: https://youtu.be/IOeTGFgNdi4 
