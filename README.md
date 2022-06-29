@@ -12,5 +12,5 @@ Em relação à  metodologia do jogo “Aprende com o Migo”, primeiro tínhamo
 Falando do Layout do jogo, desenvolvemos todas as ilustrações no Adobe Illustrator. Decidimos criar um fundo divertido, onde colocámos vários ícones da Cibersegurança numa especíe de árvores e fizemos o sol em formado de cadeado, algo que se vê muito no mundo virtual. A nossa personagem principal é o computador chamado Migo, temos como obstáculos vários perigos da internet como: Cyberbullying; Phishing; Virus; Spamming; Hackers. E temos coisas boas como: Filmes; Compras Online; Videochamada; Comunicação e Redes Sociais (tudo isto é bom quando utilizado corretamente). Com isto, o nosso objetivo era termos um Layout colorido para que, de certa forma, o jogo se tornasse atrativo para as crianças adquirirem conhecimentos.
 
 
-Hiperligação de acesso à Maquete do jogo: https://youtu.be/IOeTGFgNdi4 
+Hiperligação de acesso à Maquete do jogo: https://youtu.be/IOeTGFgNdi4                                                                                                          
 Hiperligação de acesso ao Merchandising do jogo: https://ipsantarem-my.sharepoint.com/:f:/g/personal/200200084_ese_ipsantarem_pt/EtPZ7yxPUQ5Onv8LAXz-_lYBaIEbECMR3Bprc5r6k-ZMnQ?e=QAhCK7
